@@ -1,17 +1,10 @@
 # SingleStep - AI Powered Travel Planner
 
-## :busts_in_silhouette: Group Members (Group #20)
-
-This project was developed as part of the *SE2: Software Design and Architecture - CS 446, CS 646, ECE 452* course offered at the University of Waterloo. This is not an individual project, but rather a group effort. Each member has contributed to various aspects of the project development.
+This project was developed as part of the *SE2: Software Design and Architecture - CS 446, CS 646, ECE 452* course offered at GLA UNIVERSITY.
 
 |Name | User ID | Student Number |
 |:------|:---------|:--------------|
-|Arjun Mehta|a47mehta|20839709|
-|Justin Lu|j352lu|20829900|
-|Yichun Shen|y275shen|20776079|
-|Chris Tan|c46tan|20826300|
-|Vincent Thao Wong|vt2wong|20791088|
-|Andy Yu|z274yu|20835121|
+|Rishi Kardam|krdric|2342010518|
 
 ## :memo: Overview
 
